@@ -1,0 +1,12 @@
+# Nada disto vai para a Vercel: segredos locais, materiais brutos e testes.
+.env*
+!.env.example
+_referencia
+test-results
+playwright-report
+tests
+docs
+.claude
+.next
+node_modules
+*.log
